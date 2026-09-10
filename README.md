@@ -50,7 +50,7 @@ https://fastly.jsdelivr.net/gh/gaptriko/zov.conf@main/zov.conf
 | :--- | :--- | :---: |
 | 🤖 **ИИ & Разработка** | Gemini, OpenAI, ChatGPT, GitHub | 🌐 `PROXY` |
 | 🎬 **Соцсети & Видео** | YouTube, Instagram, X (Twitter), TikTok | 🌐 `PROXY` |
-| 💬 **Мессенджеры** | Telegram (включая звонки и загрузку медиа) | 🌐 `PROXY` |
+| 💬 **Мессенджеры** | Telegram, Discord (включая звонки и медиа) | 🌐 `PROXY` |
 | 🏛 **Государственные службы** | Госуслуги, nalog.ru, официальные порталы | 🔌 `DIRECT` |
 | 💳 **Банки & Доставки** | Сбербанк, Т-Банк, WB, Ozon, Авито, Самокат | 🔌 `DIRECT` |
 | 🏠 **Локальные сети** | 192.168.x.x, 10.x.x.x, localhost | 🔌 `DIRECT` |
